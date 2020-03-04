@@ -1,0 +1,2 @@
+prometheusrdbeat:
+  period: 1s
